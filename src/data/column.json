@@ -1,0 +1,18 @@
+[
+  {
+    "name": "to do",
+    "id": "1"
+  },
+  {
+    "name": "in progress",
+    "id": "2"
+  },
+  {
+    "name": "ready to QA",
+    "id": "3"
+  },
+  {
+    "name": "Done",
+    "id": "4"
+  }
+]
